@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these models, please cite them as below."
+authors:
+- family-names: "Pfrommer"
+  given-names: "Jonathan"
+title: "Implementation of Grid Ancillary Services in PHIL Setup: SIL and PHIL models"
+version: 1.0.0
+date-released: 2025-02-13
+url: "https://github.com/Ich0001/implementation-of-grid-ancillary-services-in-phil-setup"
