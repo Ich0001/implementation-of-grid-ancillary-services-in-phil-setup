@@ -4,17 +4,13 @@
 This repository contains the models created during my master's thesis. 
 
 
-It may be cited as follows (BibLaTeX):
+It may be cited using the Function in GitHub or as follows (BibLaTeX):
 ```text
-@misc{Pfrommer.20250213,
+@misc{Pfrommer.2025,
  author = {Pfrommer, Jonathan},
- title = {{Implementation of Grid Ancillary Services in PHIL Setup}},
- url = {https://github.com/Ich0001/implementation-of-grid-ancillary-services-in-phil-setup/},
- urldate = {},
- abstract = {},
- date = {2025-02-13},
- location = {Garching, Germany},
- titleaddon = {{Github repository containing the SIL model and PHIL models created during Master's Thesis}},
- organization = {GitHub}
+ year = {2025},
+ title = {{Implementation of Grid Ancillary Services in PHIL Setup: SIL and PHIL models}},
+ url = {https://github.com/Ich0001/implementation-of-grid-ancillary-services-in-phil-setup},
+ version = {v1.0.0-Thesis}
 }
 ```
